@@ -2,6 +2,8 @@
 
 [English](README.md) · [简体中文](README_zh.md) · [繁體中文](README_zh-TW.md) · [日本語](README_ja.md) · [한국어](README_ko.md) · [Türkçe](README_tr.md) · [Русский](README_ru.md) · **Tiếng Việt** · [ไทย](README_th.md) · [Deutsch](README_de.md) · [Español](README_es.md) · [Français](README_fr.md) · [Українська](README_uk.md) · [Polski](README_pl.md) · [Português (Brasil)](README_pt-BR.md) · [العربية](README_ar.md) · [فارسی](README_fa.md) · [Bahasa Indonesia](README_id.md) · [Italiano](README_it.md)
 
+> **Fork notice:** This repository is a fork of [morluto/rea](https://github.com/morluto/rea). The upstream project remains the source of truth; this fork preserves attribution and records local work.
+
 # REA: Kỹ thuật dịch ngược cho mọi thứ
 
 ### Một MCP để dịch ngược tệp nhị phân, ứng dụng và hành vi khi chạy.
