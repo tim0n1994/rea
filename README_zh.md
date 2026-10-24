@@ -2,6 +2,8 @@
 
 [English](README.md) · **简体中文** · [繁體中文](README_zh-TW.md) · [日本語](README_ja.md) · [한국어](README_ko.md) · [Türkçe](README_tr.md) · [Русский](README_ru.md) · [Tiếng Việt](README_vi.md) · [ไทย](README_th.md) · [Deutsch](README_de.md) · [Español](README_es.md) · [Français](README_fr.md) · [Українська](README_uk.md) · [Polski](README_pl.md) · [Português (Brasil)](README_pt-BR.md) · [العربية](README_ar.md) · [فارسی](README_fa.md) · [Bahasa Indonesia](README_id.md) · [Italiano](README_it.md)
 
+> **Fork notice:** This repository is a fork of [morluto/rea](https://github.com/morluto/rea). 上游项目仍是事实来源；本 fork 保留归属，并记录本地工作。
+
 # REA：逆向一切
 
 ### 通过一个 MCP 服务，逆向分析二进制文件、应用程序和运行时行为。
